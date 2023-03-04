@@ -29,7 +29,9 @@ h. Для входа на серверы кластера нужно испол�
 будут созданы в папке /ssh_key проекта. Команада для подключения: <br>
 ssh -i ssh_key/id_rsa ubuntu@ip_address </b><br><br>
 2. Развернуть проект. <br>
-<b>Ответ: Проект развёрнут. </b><br><br>
+<b>Ответ: Проект развёрнут. </b><br>
+<img src="https://github.com/Suirus777/Project_d_1.7/blob/master/skreenshots/node_for_cluster_docker_swarm.JPG">
+<br>
 3. Сделать скриншоты.<br>
 <b>Скриншот магазина с основной ноды "Manager" кластера Docker Swarm </b> <br>
 <img src="https://github.com/Suirus777/Project_d_1.7/blob/master/skreenshots/socks_shop_manager_node.JPG">
