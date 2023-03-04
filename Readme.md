@@ -31,6 +31,7 @@ ssh -i ssh_key/id_rsa ubuntu@ip_address </b><br><br>
 2. Развернуть проект. <br>
 <b>Ответ: Проект развёрнут. </b><br><br>
 3. Сделать скриншоты.<br>
+<img src="https://github.com/Suirus777/Project_d_1.7/blob/master/skreenshots/socks_shop_manager_node.JPG">
 <b>Ответ: Все скриншоты можно посмотреть по пути /skreenshots/  </b><br><br>
 
 4. Предоставить доступ к репозиторию и скриншотам для проверки.
